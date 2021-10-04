@@ -6,7 +6,10 @@ Linear regression is a basic and commonly used type of predictive analysis.  The
 
 Logistic Regression:-Logistic regression is a classification algorithm used to assign observations to a discrete set of classes. Some of the examples of classification problems are Email spam or not spam, Online transactions Fraud or not Fraud, Tumor Malignant or Benign. Logistic regression transforms its output using the logistic sigmoid function to return a probability value.
 
-k-nearest neighbors:-
+k-nearest neighbors:-K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique.
+K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories.
+K-NN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using K- NN algorithm.
+K-NN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems.
 
 Decision Trees
 
