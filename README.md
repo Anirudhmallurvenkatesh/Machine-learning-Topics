@@ -12,7 +12,7 @@ K-NN algorithm stores all the available data and classifies a new data point bas
 
 Decision Trees:-Decision Trees are a type of Supervised Machine Learning (that is you explain what the input is and what the corresponding output is in the training data) where the data is continuously split according to a certain parameter. The tree can be explained by two entities, namely decision nodes and leaves. The leaves are the decisions or the final outcomes. And the decision nodes are where the data is split.
 
-Random Forest:-
+Random Forest:-A random forest is a machine learning technique that’s used to solve regression and classification problems. It utilizes ensemble learning, which is a technique that combines many classifiers to provide solutions to complex problems.
 
 Gradient Boosting Machines
 
