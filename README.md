@@ -16,7 +16,9 @@ Random Forest:-A random forest is a machine learning technique that’s used to 
 
 Gradient Boosting Machines:-Gradient boosting machines are a family of powerful machine-learning techniques that have shown considerable success in a wide range of practical applications. They are highly customizable to the particular needs of the application, like being learned with respect to different loss functions.Considerations on handling the model complexity are discussed. Three practical examples of gradient boosting applications are presented and comprehensively analyzed.
 
-XGBoost:-
+XGBoost:-XGBoost is an efficient implementation of gradient boosting that can be used for regression predictive modeling.
+How to evaluate an XGBoost regression model using the best practice technique of repeated k-fold cross-validation.
+How to fit a final model and use it to make a prediction on new data.
 
 Support Vector Machines (SVM)
 
