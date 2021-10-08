@@ -20,7 +20,7 @@ XGBoost:-XGBoost is an efficient implementation of gradient boosting that can be
 How to evaluate an XGBoost regression model using the best practice technique of repeated k-fold cross-validation.
 How to fit a final model and use it to make a prediction on new data.
 
-Support Vector Machines (SVM)
+Support Vector Machines (SVM):-
 
 Neural Networks
 
