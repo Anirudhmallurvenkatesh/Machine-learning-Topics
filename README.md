@@ -24,9 +24,12 @@ Support Vector Machines (SVM):-Support Vector Machine” (SVM) is a supervised m
 
 Neural Networks:-A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. 
 
-Unsupervised Learning:-
+Unsupervised Learning
 
-k means clustering
+k means clustering:-To process the learning data, the K-means algorithm in data mining starts with a first group of randomly selected centroids, which are used as the beginning points for every cluster, and then performs iterative (repetitive) calculations to optimize the positions of the centroids
+It halts creating and optimizing clusters when either:
+The centroids have stabilized — there is no change in their values because the clustering has been successful.
+The defined number of iterations has been achieved.
 
 Hierarchical clustering
 
