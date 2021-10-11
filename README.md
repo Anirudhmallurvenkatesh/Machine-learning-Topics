@@ -31,7 +31,7 @@ It halts creating and optimizing clusters when either:
 The centroids have stabilized — there is no change in their values because the clustering has been successful.
 The defined number of iterations has been achieved.
 
-Hierarchical clustering
+Hierarchical clustering:-
 
 Neural Network
 
