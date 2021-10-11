@@ -31,7 +31,7 @@ It halts creating and optimizing clusters when either:
 The centroids have stabilized — there is no change in their values because the clustering has been successful.
 The defined number of iterations has been achieved.
 
-Hierarchical clustering:-Hierarchical clustering, also known as hierarchical cluster analysis, is an algorithm that groups similar objects into groups called clusters. The endpoint is a set of clusters, where each cluster is distinct from each other cluster, and the objects within each cluster are broadly similar to each other
+Hierarchical clustering:-Hierarchical clustering, also known as hierarchical cluster analysis, is an algorithm that groups similar objects into groups called clusters. The endpoint is a set of clusters, where each cluster is distinct from each other cluster, and the objects within each cluster are broadly similar to each other.
 
 Neural Network
 
