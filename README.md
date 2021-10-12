@@ -35,4 +35,4 @@ Hierarchical clustering:-Hierarchical clustering, also known as hierarchical clu
 
 Neural Network:-Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.
 
-Reinforcement Learning
+Reinforcement Learning:-
