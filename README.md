@@ -18,6 +18,9 @@ The assumption in logistic regression
 2. Classes are almost linearly separable points.
 3. Requires to be little or no multicollinearity among the independent variables.
 4. Typically requires a large sample size.
+2nd exponent logistic regression
+dividing
+Now we have our logistic function, also called a sigmo
 
 k-nearest neighbors:-K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique.
 K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories.
