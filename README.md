@@ -13,6 +13,11 @@ u — The residual or noise that are caused by unexplained factors
 
 Logistic Regression:-Logistic regression is a classification algorithm used to assign observations to a discrete set of classes. Some of the examples of classification problems are Email spam or not spam, Online transactions Fraud or not Fraud, Tumor Malignant or Benign. Logistic regression transforms its output using the logistic sigmoid function to return a probability value.
 Math intution of logidtic regression:-
+The assumption in logistic regression
+1. Logistic regression requires the dependent variable to be binary.
+2. Classes are almost linearly separable points.
+3. Requires to be little or no multicollinearity among the independent variables.
+4. Typically requires a large sample size.
 
 k-nearest neighbors:-K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique.
 K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories.
